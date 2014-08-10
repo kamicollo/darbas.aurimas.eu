@@ -31,7 +31,7 @@ A bit of [Bootstrap](http://twitter.github.io/bootstrap/) and [Highcharts](http:
 + [@Aurimas](http://twitter.com/aurimas)
 
 ## Screenshot
- ![@#london2012](https://github.com/ernesta/London2012/blob/e9abc3a021874b987a1ac9cca2e6dbca74407fe6/darbas.opendata.lt.png)
+ ![@#darbas.opendata.lt](https://raw.githubusercontent.com/kamicollo/darbas.opendata.lt/master/darbas.opendata.lt.png)
 
 ## Įžanga lietuviškai
 
