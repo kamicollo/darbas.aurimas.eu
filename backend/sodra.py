@@ -5,6 +5,7 @@ settings_file = os.path.dirname(os.path.realpath(__file__)) + '/../settings/sett
 config = ConfigParser.ConfigParser()
 config.readfp(open(settings_file))
 php_executable = config.get('python', 'php_executable')
+php_executable = php_executable.strip('"')
 php_script = os.path.join(os.path.dirname(__file__), config.get('python', 'php_file'))
 php_command = php_executable + ' ' + php_script
 sodra_url = config.get('python', 'sodra_url')
