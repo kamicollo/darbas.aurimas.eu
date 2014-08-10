@@ -23,6 +23,8 @@ $db->exec(
 
 //read from stdin and import data
 $db->beginTransaction();
+
+$db = new PDO('mysql:host=localhost;dbname=aurimas_opendata', 'aurimas_opendata', 'windows');
 $stmt = $db->prepare("INSERT INTO sodra (mok_kodas, dr_kodas, skaicius, data) VALUES (:mok_kodas, :dr_kodas, :skaicius, :data)");
 
 while(($data = fgetcsv(STDIN)) != false) {
