@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Returns data about job statistics from the database
+ */
+
 class WorkData {
 
 	/* returns the number of workers in Lithuania at a given date */

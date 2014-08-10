@@ -5,7 +5,7 @@ Highcharts.setOptions({
 } });
 
 
-
+// generating the main chart in the website
 (function($) {
 	// Pretty tooltips
 	$('#change').tooltip();

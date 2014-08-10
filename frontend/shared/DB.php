@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Custom PDO wrapper (nothing fancy, just shorthand methods to write SQL. No ORM-like features of anything.
+ */
+
 class DB extends PDO {
 	
 /* GENERIC WRAPPER */

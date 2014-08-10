@@ -1,3 +1,6 @@
+# my first ever python script used in real life.
+# fetches data from SoDra, parses and sends to a php script to save it to a database.
+
 import urllib2, zipfile, cStringIO, csv, os, datetime, re, subprocess, shlex, ConfigParser
 
 #let's read the settings file

@@ -1,4 +1,8 @@
 <?php
+/**
+ * Singleton object, returns values for the charts in the frontend
+ * Relies on WorkData class to get all the values from the DB
+ */
 
 class Response {
 

@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Before there was Monolog, there was a PLogger. Same principle, really, just a bit simplier.
+ */
+
 class PLogger {
 	
 	const E_INFO = 1;

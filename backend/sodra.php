@@ -1,4 +1,11 @@
 <?php
+
+/*
+ * This file should not be run directly. It's used by sodra.py to import data from zip files provided by SoDra. 
+ * Reads csv input from stdin and saves it MySQL DB. Such a setup was done as python on production server
+ * did not have mysql connectors. And because we like php.
+ */
+
 $settings = @parse_ini_file(dirname(__FILE__) . '/../settings/settings.ini', true);
 $db = $db = new PDO('mysql:dbname=' . $settings['mysql']['db_name'] . ';host=' . $settings['mysql']['host'], $settings['mysql']['username'], $settings['mysql']['password'], array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES \'UTF8\''));
 

@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Manages autoloading of other classes and configuration files.
+ */
+
 class ConfigurationException extends Exception {}
 
 class XInitializator {
