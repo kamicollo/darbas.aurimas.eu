@@ -9,7 +9,7 @@ For the moment, this project does two things:
 + saves the daily statistics to a database (statistics comprise a count of workers insured by an insurer (usually, an enterprise, with its VAT payee code provided, too))
 + shows a total Lithuanian "employment" chart, so you can enjoy a near-real-time pulse of the Lithuanian economy.
 
-We have been collecting this data from May 2012 - in case you'd like to get your hand on this dataset, [let us know](mailto://mail@aurimas.eu) as that massive X-Gigabyte database is not included in this repository.
+We have been collecting this data from May 2012 - in case you'd like to get your hand on this dataset, [let us know](mailto:mail@aurimas.eu) as that massive X-Gigabyte database is not included in this repository.
 
 ## Code
 
