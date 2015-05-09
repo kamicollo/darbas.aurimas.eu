@@ -33,7 +33,7 @@ A bit of [Bootstrap](http://twitter.github.io/bootstrap/) and [Highcharts](http:
 + [@Aurimas](http://twitter.com/aurimas)
 
 ## Screenshot
- ![@#darbas.aurimas.eu](https://raw.githubusercontent.com/kamicollo/darbas.aurimas.eu/master/darbas.aurimas.eu.png)
+ ![@#darbas.aurimas.eu](https://raw.githubusercontent.com/kamicollo/darbas.aurimas.eu/master/darbas.opendata.lt.png)
 
 ## Įžanga lietuviškai
 
