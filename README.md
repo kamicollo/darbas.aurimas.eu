@@ -1,9 +1,9 @@
-# [darbas.opendata.lt](http://darbas.opendata.lt)
+# [darbas.aurimas.eu](http://darbas.aurimas.eu)
 
 We have always been fans of the idea behind open data, and we were a bit envious about all the developments in the UK and the USA,
 with dedicated government portals popping up with loads of datasets. So when the [Lithuanian Social Insurance Fund](http://www.sodra.lt/en)
 started publishing daily statistics on the number of insured policyholders (effectively, all working people),
-we jumped at the opportunity to save that data and do something with it. That's how [darbas.opendata.lt](http://darbas.opendata.lt) was born.
+we jumped at the opportunity to save that data and do something with it. That's how [darbas.aurimas.eu](http://darbas.aurimas.eu) was born.
 
 For the moment, this project does two things:
 + saves the daily statistics to a database (statistics comprise a count of workers insured by an insurer (usually, an enterprise, with its VAT payee code provided, too))
@@ -33,11 +33,11 @@ A bit of [Bootstrap](http://twitter.github.io/bootstrap/) and [Highcharts](http:
 + [@Aurimas](http://twitter.com/aurimas)
 
 ## Screenshot
- ![@#darbas.opendata.lt](https://raw.githubusercontent.com/kamicollo/darbas.opendata.lt/master/darbas.opendata.lt.png)
+ ![@#darbas.aurimas.eu](https://raw.githubusercontent.com/kamicollo/darbas.aurimas.eu/master/darbas.aurimas.eu.png)
 
 ## Įžanga lietuviškai
 
-[darbas.opendata.lt](http://darbas.opendata.lt) - mūsų bandymas dėti pirmuosius žingsnius lietuviškoje atvirų duomenų erdvėje. 
+[darbas.aurimas.eu](http://darbas.aurimas.eu) - mūsų bandymas dėti pirmuosius žingsnius lietuviškoje atvirų duomenų erdvėje. 
 Tam mes panaudojome vieną geriausių atvirų duomenų pavyzdžių Lietuvoje - SoDros kas dieną skelbiamus duomenis apie Lietuvoje dirbančių (apdraustųjų soc. draudimu) skaičių. 
 Mūsų projektas kol kas daro 2 dalykus:
 + Kiekvieną dieną išsaugo SoDros pateiktus duomenis apie Lietuvoje esančių apdraustųjų skaičių (pateikiami duomenys kiekvienam draudiko kodui, taip pat nurodomos ir PVM mokėtojo kodas, jei toks yra)
